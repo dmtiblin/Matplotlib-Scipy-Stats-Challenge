@@ -45,13 +45,13 @@ Your tasks are to do the following:
 ## Final Observations and Insights
 
 * Given that all treatment trials had 25 mice participants to start, you can infer that Capomulin was more effective at keeping the mice alive longer since there were many more timepoints tested for Capomulin than the other drugs (except Ramicane).
-   * [num_timepoints_tested](Images/num_timepoints_tested.png)
+   * ![num_timepoints_tested](Images/num_timepoints_tested.png)
    
 * The average final tumor volume was lower for Capomilin than the other drugs so you can infer that it was more effective at reducing or limiting tumor growth (except Ramicane).
-   * [final_tumor_volumes](Images/final_tumor_volumes.png)
+   * ![final_tumor_volumes](Images/final_tumor_volumes.png)
    
 * The overall tumor volume results for Capomulin have less variance so we can infer the drug is more consistent than others in providing similar results to what the study has shown here (except Ramicane).
-   * [all_tumor_vol_summary_stats](Images/all_tumor_vol_summary_stats.png)
+   * ![all_tumor_vol_summary_stats](Images/all_tumor_vol_summary_stats.png)
    
 * The difference in results for Capomulin and Ramicane may not be statistically significant so there may not be a benefit to having both in the same product portfolio as they could compete against each other.
 
