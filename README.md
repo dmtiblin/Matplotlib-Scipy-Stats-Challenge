@@ -41,17 +41,19 @@ Your tasks are to do the following:
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
 * Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
-- - -
 
 ## Final Observations and Insights
 
 * Since all treatments had 25 mice to start, you can infer that Capomulin was more effective at keeping the mice alive longer since there were many more timepoints tested for Capomulin than the other drugs (except Ramicane).
-
+   * [num_timepoints_tested](Images/num_timepoints_tested)
+   
 * The average final tumor volume was lower for Capomilin than the other drugs so you can infer that it was more effective at reducing or limiting tumor growth (except Ramicane).
-
-* The results for Capomulin have less variance so we can infer the drug is more consistent than others in providing similar results to what the study has shown here (except Ramicane).
-
-* The results for Capomulin and Ramicane are probably not statistically significant so there may not be a benefit to having both in the same product portfolio as they could compete against each other.
+   * [final_tumor_volumes](Images/final_tumor_volumes)
+   
+* The overall tumor volume results for Capomulin have less variance so we can infer the drug is more consistent than others in providing similar results to what the study has shown here (except Ramicane).
+   * [all_tumor_vol_summary_stats](Images/all_tumor_vol_summary_stats)
+   
+* The difference in results for Capomulin and Ramicane are may not be statistically significant so there may not be a benefit to having both in the same product portfolio as they could compete against each other.
 
 - - -
 
