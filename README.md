@@ -53,7 +53,7 @@ Your tasks are to do the following:
 * The overall tumor volume results for Capomulin have less variance so we can infer the drug is more consistent than others in providing similar results to what the study has shown here (except Ramicane).
    * [all_tumor_vol_summary_stats](Images/all_tumor_vol_summary_stats.png)
    
-* The difference in results for Capomulin and Ramicane are may not be statistically significant so there may not be a benefit to having both in the same product portfolio as they could compete against each other.
+* The difference in results for Capomulin and Ramicane may not be statistically significant so there may not be a benefit to having both in the same product portfolio as they could compete against each other.
 
 - - -
 
