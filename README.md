@@ -1,12 +1,12 @@
 # The Power of Plots
 
+**Scroll** to the end for my final observations!
+
 ## Background
 
 What good is data without a good plot to tell the story?
 
 So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
-
-![Laboratory](Images/Laboratory.jpg)
 
 While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -41,6 +41,17 @@ Your tasks are to do the following:
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
 * Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+- - -
+
+## Final Observations and Insights
+
+* Since all treatments had 25 mice to start, you can infer that Capomulin was more effective at keeping the mice alive longer since there were many more timepoints tested for Capomulin than the other drugs (except Ramicane).
+
+* The average final tumor volume was lower for Capomilin than the other drugs so you can infer that it was more effective at reducing or limiting tumor growth (except Ramicane).
+
+* The results for Capomulin have less variance so we can infer the drug is more consistent than others in providing similar results to what the study has shown here (except Ramicane).
+
+* The results for Capomulin and Ramicane are probably not statistically significant so there may not be a benefit to having both in the same product portfolio as they could compete against each other.
 
 - - -
 
